@@ -1,0 +1,7 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\RandomNumberToFile\bin\Debug\RandomNumberToFile.exe.config
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\RandomNumberToFile\bin\Debug\RandomNumberToFile.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\RandomNumberToFile\bin\Debug\RandomNumberToFile.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\RandomNumberToFile\obj\Debug\RandomNumberToFile.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\RandomNumberToFile\obj\Debug\RandomNumberToFile.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\RandomNumberToFile\obj\Debug\RandomNumberToFile.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\RandomNumberToFile\obj\Debug\RandomNumberToFile.pdb
